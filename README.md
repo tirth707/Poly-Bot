@@ -37,5 +37,5 @@ The system acts as a rapid-execution bridge between off-chain market data and on
 ### Installation (Local Development)
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/project-name.git](https://github.com/yourusername/project-name.git)
-   cd project-name
+   git clone [https://github.com/tirth707/poly-bot.git](https://github.com/tirth707/poly-bot.git)
+   cd poly-bot
