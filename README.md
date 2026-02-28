@@ -6,7 +6,7 @@
 ![Web3](https://img.shields.io/badge/Web3-Polymarket-purple)
 
 ## 📖 Overview
-[Project Name] is a high-performance, user-hosted algorithmic trading bot designed specifically for Web3 prediction markets via Polymarket. Built entirely on the MERN stack, it operates exclusively on the client's local machine or personal cloud. This decentralized architecture guarantees absolute privacy, ultra-low latency, and total user custody over their funds, API keys, and proprietary trading logic.
+PolyBot is a high-performance, user-hosted algorithmic trading bot designed specifically for Web3 prediction markets via Polymarket. Built entirely on the MERN stack, it operates exclusively on the client's local machine or personal cloud. This decentralized architecture guarantees absolute privacy, ultra-low latency, and total user custody over their funds, API keys, and proprietary trading logic.
 
 The system acts as a rapid-execution bridge between off-chain market data and on-chain trade execution, ingesting real-time data streams via WebSockets and receiving precise trade signals via TradingView webhooks.
 
